@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @santiagomontoyac5, I´m Telecommunications engineer with solid training, knowledge, and experience in software development (Full Stack with knowledge in Java, DevOps, Docker, AWS, Microservices, Angular, Spring, Python) with AWS certification (AWS Certified Cloud Practitioner and AWS Certified Solutions Architect - Associate) 
+- 👀 I’m interested in machine learning and cloud.
+- 🌱 I’m currently learning AWS.
